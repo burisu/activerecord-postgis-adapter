@@ -1,5 +1,7 @@
 # PostGIS ActiveRecord Adapter
 
+[![Join the chat at https://gitter.im/burisu/activerecord-postgis-adapter](https://badges.gitter.im/burisu/activerecord-postgis-adapter.svg)](https://gitter.im/burisu/activerecord-postgis-adapter?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Gem Version](https://badge.fury.io/rb/activerecord-postgis-adapter.svg)](http://badge.fury.io/rb/activerecord-postgis-adapter)
 [![Build Status](https://travis-ci.org/rgeo/activerecord-postgis-adapter.svg?branch=master)](https://travis-ci.org/rgeo/activerecord-postgis-adapter)
 [![Code Climate](https://codeclimate.com/github/rgeo/activerecord-postgis-adapter.png)](https://codeclimate.com/github/rgeo/activerecord-postgis-adapter)
